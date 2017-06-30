@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Aaron Trierweiler"
-  avatar           : "/assets/images/profilePicture.png"
+  avatar           : "assets/images/profilePicture.png"
   bio              : "Junior Web Developer"
   location         : "Evanston, IL"
   email            : "atrierweil@gmail.com"
