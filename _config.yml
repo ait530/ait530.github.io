@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Aaron Trierweiler"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/profilePicture.jpg"
   bio              : "Junior Web Developer"
   location         : "Evanston, IL"
   email            : "atrierweil@gmail.com"
