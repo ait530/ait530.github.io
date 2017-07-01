@@ -32,11 +32,9 @@ Hello! My name is Aaron, and I am an aspiring web developer currently enrolled a
         </li>
       
 
-      
-
         <li>
           <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aaron-trierweiler-785b7465/" itemprop="sameAs">
             <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
           </a>
         </li>
-</div>
+
