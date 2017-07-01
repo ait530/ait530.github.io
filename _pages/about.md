@@ -38,3 +38,16 @@ Hello! My name is Aaron, and I am an aspiring web developer currently enrolled a
           </a>
         </li>
 
+        
+        <li>
+          <a href="https://twitter.com/https://twitter.com/search?q=aaron+trierweiler" itemprop="sameAs">
+              <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+
+        <li>
+          <a href="https://www.stackoverflow.com/users/6876524/atron" itemprop="sameAs">
+              <i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow
+          </a>
+        </li>
+
