@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: Welcome!
 permalink: /about/
 author_profile: true
