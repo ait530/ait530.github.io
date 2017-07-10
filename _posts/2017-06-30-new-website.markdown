@@ -4,6 +4,7 @@ date:   2017-06-30 11:50:00
 category: post
 tags: [newWebsite]
 author_profile: false
+layout: single
 ---
 Welcome to my website!
 
