@@ -1,11 +1,10 @@
 ---
-title:  "Welcome, Site is in Development"
-date:   2017-06-30 11:50:00
+title:  "Welcome to my Personal Website."
+date:   2017-07-10 17:00:00
 category: post
 tags: [newWebsite]
 author_profile: false
 layout: single
 ---
-Welcome to my website!
 
 Please check back shortly, this is a work in progress. Thanks!
