@@ -1,10 +1,10 @@
 ---
-title:  "Welcome to my Personal Website."
+title:  "Personal Website."
 date:   2017-07-10 17:00:00
 category: post
-tags: [newWebsite]
+tags: [newWebsite] 
 author_profile: false
 layout: single
 ---
 
-Please check back shortly, this is a work in progress. Thanks!
+Hi, welcome to my website! I will be updating this site with some of my projects, and I plan to write posts on what I am currently learning. Stay tune!
