@@ -83,7 +83,7 @@ author:
   avatar           : "assets/images/profilePicture.png"
   bio              : "Junior Web Developer"
   location         : "Evanston, IL"
-  email            : "atrierweil@gmail.com"
+  # email            : "atrierweil@gmail.com"
   uri              : "https://ait530.github.io/"
   bitbucket        :
   codepen          :
