@@ -2,7 +2,7 @@
 main:
   - title: "Blog"
     url: https://ait530.github.io/posts/
-  - title: "Projects List"
+  - title: "Projects Index"
     url: https://ait530.github.io/projectslist/
   - title: "Portfolio"
     url: https://ait530.github.io/projectsaction/
