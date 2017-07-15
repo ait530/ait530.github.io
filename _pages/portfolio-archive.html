@@ -1,18 +1,16 @@
 ---
 layout: archive
 title: "Portfolio"
-permalink: /projectslist/
+permalink: /projectsaction/
 author_profile: false
-header:
-  teaser: ./assets/images/webDevStockImage.jpg
+header
+  teaser: 
 ---
 
-<ul>
-  <li><a href="https://ancient-peak-57728.herokuapp.com/" style="color:blue;">Body Shop Profits and Loss Application</a></li>
 
-  <li><a href="https://warm-chamber-97035.herokuapp.com/" style="color:blue;">Coffee Style Hangman Game</a></li>
 
-  <li><i>More to come...</i></li>
-
-</ul> 
-
+<div class="grid__wrapper">
+  {% for post in site.portfolio %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
