@@ -9,7 +9,7 @@ Hello! My name is Aaron, and I am an aspiring Web Developer currently enrolled a
 
 Feel free to connect with me on <span style="color:blue">[LinkedIn][linkedin]{:target="_blank"}</span>.
 
-Copy of my <span style="color:blue">[resume][resume] {:target="_blank"}</span>
+Copy of my <span style="color:blue">[resume][resume]{:target="_blank"}</span>.
           <!-- (<span style="color:blue">[docx][docx] {:target="_blank"}</span>). -->
 
 
