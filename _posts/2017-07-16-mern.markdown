@@ -1,9 +1,10 @@
----
+<!-- ---
 title:  "MERN Stack"
 date:   2017-07-10 17:00:00
 category: post
-tags: [newWebsite] 
+tags: [mern] 
 author_profile: false
 layout: single
 ---
 
+ -->
