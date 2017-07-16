@@ -1,4 +1,4 @@
-<!-- ---
+---
 title:  "MERN Stack"
 date:   2017-07-10 17:00:00
 category: post
@@ -7,4 +7,6 @@ author_profile: false
 layout: single
 ---
 
- -->
+What is MERN? MERN is one of two dominant JavaScript web stacks (the other bein MEAN).
+
+![alt text](../assets/images/mern.jpg "MERN Diagram")
