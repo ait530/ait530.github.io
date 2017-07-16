@@ -9,4 +9,4 @@ layout: single
 
 What is MERN? MERN is one of two dominant JavaScript web stacks (the other bein MEAN).
 
-![alt text](../assets/images/mern.png "MERN Diagram")
+<img src="../assets/images/mern.png" alt="mern">
