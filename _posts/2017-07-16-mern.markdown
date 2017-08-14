@@ -7,8 +7,6 @@ author_profile: false
 layout: single
 ---
 
-*UPDATING POST*
-
 What is MERN? MERN is one of two dominant JavaScript web stacks (the other being MEAN) used to build dynamic web applications.
 
 <img src="/assets/images/mern.png" alt="mern">
@@ -19,3 +17,4 @@ What is MERN? MERN is one of two dominant JavaScript web stacks (the other being
 <li>R = React</li>
 <li>N = Node.js</li>
 </ul>
+
