@@ -13,6 +13,6 @@
 ### Technologies
 <ul>
   <li>Jekyll - Plain Text => Static Website/blog</li>
-
+  <li>Ruby Gems = Package Management Framework</li>
 </ul>
 
