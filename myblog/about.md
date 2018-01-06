@@ -1,18 +1,24 @@
 ---
-layout: page
-title: About
+layout: archive
+title: Welcome to my website!
 permalink: /about/
+author_profile: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! My name is Aaron, and I am a Web Developer. Recently, I completed Northwestern University's Full-Stack Web Development Boot Camp. Previously, I worked as a Research Assistant in a Molecular Biology Laboratory. Besides coding, I also enjoy running, reading, and writing.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Feel free to connect with me on <span style="color:blue">[LinkedIn][linkedin]{:target="_blank"}</span>.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Copy of my <span style="color:blue">[resume][resume]{:target="_blank"}</span>.
+          <!-- (<span style="color:blue">[docx][docx]{:target="_blank"}</span>). -->
 
 
-[jekyll-organization]: https://github.com/jekyll
+[linkedin]: https://www.linkedin.com/in/aaron-trierweiler-785b7465/
+[resume]: /downloads/trierweilerResume.pdf
+[docx]: /downloads/trierweilerResume.docx
+[bootcamp]: https://codingbootcamp.northwestern.edu/
+
+  
+
+
+  
